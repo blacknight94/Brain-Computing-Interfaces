@@ -1,0 +1,36 @@
+************************
+* Author: John Daniel
+* Course: CMSC 491 Brain Computing Interfaces
+* Professor Dr.Vinjamuri
+* Date: 5/20/24
+************************
+This project is designed to develop a working 2 degree arm with a 4 degree of freedom hand to be used in grasping objects. Which can be retrofitted to interact with joystick devices and or eventually Brain Computing Interfaces. This project has been devloped in MATLAB SIMULINK with 3D World Editor with the intended purpose of developing an understanding of how 3d bodies are created and used in a medical setting for the development of Brain Computing Interfaces. 
+
+
+Main.slx // is the driver of the project and controls the 3d arm through statemachines.
+final_grabber_arm.wrl //contains the 3d virtual arm developed in MATLAB Simulink 3D World Editor.
+
+
+To run the following project:
+    - open main.slx in MATALAB simulink.
+    - click on the grey box labeled 3d Virtual Arm
+    - click the play button in the popup window that is created after clicking the box
+
+Dependencies:
+    - MATLAB version 21.1.0 R2024a
+    - MATLAB Simulink
+    - 3d World Editor
+
+
+
+HELP: when running the project if you do not see anything or the arm is not centered properly.
+
+    -right click on the pop-up window in the black spacing that is created after clicking on the "3d Virutal Arm" box. Then go to veiwpoints then click "go to defualt veiwpoints".
+
+
+HELP: if you run into issues with 3D World Editor please go back to an earlier version of MATLAB that supports it as more modern versions may have some compatability issues with 3D world Editor.
+    
+    - project built using MATLAB version 21.1.0 R2024a
+
+
+
